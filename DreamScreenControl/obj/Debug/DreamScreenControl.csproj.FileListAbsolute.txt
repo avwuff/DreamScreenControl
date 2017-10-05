@@ -1,0 +1,2 @@
+E:\Source\VB\C# Projects\DreamScreenControl\DreamScreenControl\bin\Debug\DreamScreenControl.exe
+E:\Source\VB\C# Projects\DreamScreenControl\DreamScreenControl\bin\Debug\DreamScreenControl.exe.config

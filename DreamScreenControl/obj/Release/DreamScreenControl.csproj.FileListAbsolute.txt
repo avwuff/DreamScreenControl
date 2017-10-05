@@ -1,0 +1,5 @@
+E:\Source\VB\C# Projects\DreamScreenControl\DreamScreenControl\bin\Release\DreamScreenControl.exe.config
+E:\Source\VB\C# Projects\DreamScreenControl\DreamScreenControl\bin\Release\DreamScreenControl.exe
+E:\Source\VB\C# Projects\DreamScreenControl\DreamScreenControl\bin\Release\DreamScreenControl.pdb
+E:\Source\VB\C# Projects\DreamScreenControl\DreamScreenControl\obj\Release\DreamScreenControl.exe
+E:\Source\VB\C# Projects\DreamScreenControl\DreamScreenControl\obj\Release\DreamScreenControl.pdb
